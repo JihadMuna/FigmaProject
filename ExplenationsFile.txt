@@ -1,0 +1,6 @@
+Figma weekend project
+A describe for my design decisions:
+1-	My 3 main colors  is : (Black + White + pink)
+Black represents luxury and trust, white symbolizes purity and simplicity, and pink conveys femininity and positivity. Together, they create an engaging and trustworthy user experience, enhancing the appeal of the products and potentially increasing sales.
+2-	I choose font (Black Han Sans) for Header and font (Crete Round) for body text because it combines elegance and readability, I desire to convey sophistication while ensuring a comfortable and clear reading experience for users.
+3-	I resized text and images to fit mobile screens appropriately, and I reorganized the page layout to be vertical instead of horizontal to better accommodate mobile users.
